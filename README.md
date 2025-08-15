@@ -19,5 +19,5 @@ A fun and interactive number guessing game built with Python where the user trie
 ## How to Run
 
 1.  Download the Python file.
-2.  Run it from your terminal: `python1.py`
+2.  Run it from your terminal: `project1.py`
 3.  Follow the on-screen prompts to play!
